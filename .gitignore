@@ -28,7 +28,6 @@
 *.otares
 *.drc
 *.rc
-*.res
 *.local
 
 # Output Folders  #
