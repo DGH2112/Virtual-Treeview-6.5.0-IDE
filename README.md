@@ -1,3 +1,12 @@
+ Virtual Treeview 6.5.0 with Theming Support for RAD Studio 10.2 and above
+===========================================================================
+
+This is a simple copy of VTV 6.5.0 with added support for the new RAD Studio IDE theming.
+This is here as its used by my IDE plug-ins.
+
+regards
+Dave
+
 # Virtual-TreeView
 Virtual Treeview is a Delphi treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today. Virtual Treeview starts off with the claim to improve many aspects of existing solutions and introduces some new technologies and principles which were not available before.
 
