@@ -73,7 +73,8 @@ uses
   Winapi.Windows, Winapi.oleacc, Winapi.Messages, System.SysUtils, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.ImgList, Winapi.ActiveX, Vcl.StdCtrls, System.Classes,
   Vcl.Menus, Vcl.Printers, System.Types, Winapi.CommCtrl, Vcl.Themes, Winapi.UxTheme,
-  Winapi.ShlObj, System.UITypes, System.Generics.Collections;
+  Winapi.ShlObj, System.UITypes, System.Generics.Collections,
+  VirtualTrees.IDETheming;
 
 const
   VTVersion = '6.5.0';
